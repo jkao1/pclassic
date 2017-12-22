@@ -1,0 +1,5 @@
+ABAB,abcxyxabcxyx
+A,abc
+AB,abc
+ABA,abc
+ABCABBC,heyhellohiheyhellohellohi
